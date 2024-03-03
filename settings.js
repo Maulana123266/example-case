@@ -7,18 +7,18 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.my.id': 'Your Key',
+	'https://api.zeeoneofc.my.id': 'phGaenFcgsniaCF',
 }
 
-global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
-global.packname = namabot
-global.author = namaowner
-global.myweb = "https://s.id/zeeoneofc"
-global.footer_text = "© " + namabot
+global.namabot = "Bot WhatsApp"
+global.namaowner = "Dipoo"
+global.packname = Bot WhatsApp
+global.author = Dipoo
+global.myweb = "https://linktr.ee/alan_06"
+global.footer_text = "© " + Bot WhatsApp
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62887435047326']
+global.owner = ['6285640570185']
 global.pairingNumber = "" //pairing number to install bot 
 global.sessionName = 'session'
 global.background = "https://telegra.ph/file/40342e0085d521cb8b907.jpg" //maks size 50kb agar welcome nya gk lemot
